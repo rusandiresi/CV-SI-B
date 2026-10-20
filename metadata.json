@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio View - Web Designer & Developer",
+  "description": "Portofolio profesional dan modern dengan dukungan dwibahasa (Indonesia & English), showcase proyek, layanan, ulasan, paket harga, dan kontak langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
